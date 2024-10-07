@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_X6731.mk
+    $(LOCAL_DIR)/twrp_X6731.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X6731-user \
-    omni_X6731-userdebug \
-    omni_X6731-eng
+    twrp_X6731-user \
+    twrp_X6731-userdebug \
+    twrp_X6731-eng
