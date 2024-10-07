@@ -13,12 +13,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from Infinix-X6731 device
-$(call inherit-product, device/infinix/Infinix-X6731/device.mk)
+$(call inherit-product, device/infinix/X6731/device.mk)
 
-PRODUCT_DEVICE := Infinix-X6731
-PRODUCT_NAME := omni_Infinix-X6731
+PRODUCT_DEVICE := X6731
+PRODUCT_NAME := omni_X6731
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := Infinix X6731
+PRODUCT_MODEL := Infinix Zero 30 5G
 PRODUCT_MANUFACTURER := infinix
 
 PRODUCT_GMS_CLIENTID_BASE := android-infinix

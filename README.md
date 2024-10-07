@@ -1,4 +1,4 @@
-# Android device tree for Infinix Infinix X6731 (Infinix-X6731)
+# Android device tree for Infinix Zero 30 5G (Infinix-X6731)
 
 ```
 #
