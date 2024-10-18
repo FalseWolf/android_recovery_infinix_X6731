@@ -19,7 +19,8 @@ AB_OTA_PARTITIONS += \
     system \
     product \
     system_ext \
-    vendor
+    vendor \
+    vendor_boot
 
 # Architecture
 TARGET_ARCH := arm64
